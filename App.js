@@ -17,7 +17,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <StatusBar style='auto' />
-      <View style={{backgroundColor: 'black', height: 30}}>
+      <View style={{backgroundColor: 'white', height: 30}}>
       {number > 0 ? (
         <Text
           adjustsFontSizeToFit={true}
